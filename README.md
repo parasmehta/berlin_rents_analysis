@@ -1,2 +1,1 @@
-# berlin_rents_analysis
-Analysis and Visualization of Rental Listing Prices in Berlin.
+Scrape, analyze and visualize rental listing prices in Berlin.
